@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.2",
+    "campaign-monitor": "^0.0.12",
+    "createsend-node": "^0.8.2",
+    "dotenv": "^16.0.0",
+    "easyinvoice": "^2.2.6",
+    "express": "^4.17.3",
+    "jsonwebtoken": "^8.5.1",
+    "request": "^2.88.2",
+    "webpack": "^5.69.1",
+    "xlsx": "^0.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
